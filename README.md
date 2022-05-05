@@ -1,2 +1,3 @@
-# test2.txt
-this is test2 text
+this is abdunnur 
+I am in leraning for being coder 
+may Allah give me tawfiq
